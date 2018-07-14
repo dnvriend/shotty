@@ -1,2 +1,2 @@
 #!/bin/bash
-python shotty/shotty.py start
+pipenv run python shotty/shotty.py start

@@ -1,2 +1,2 @@
 #!/bin/bash
-pipenv run "mypy --ignore-missing-imports shotty/shotty.py"
+pipenv run mypy --ignore-missing-imports shotty/shotty.py
